@@ -208,8 +208,8 @@ function carregaListaAutomatica(){
             categoria:"LUGARES"
         },
         palavra007 = {
-            nome: "GROELANDIA",
-            categoria:"LUGARES"
+            nome: "JERICOACOARA",
+            categoria:"LUGARES:DICA PRAI"
         },
         palavra008 = {
             nome: "UZBEQUISTAO",
