@@ -185,27 +185,27 @@ function carregaListaAutomatica(){
     palavras = [
         palavra001 = {
             nome: "IRLANDA",
-            categoria:"LUGARES"
+            categoria:"LUGARES SR"
         },
         palavra002 = {
             nome: "EQUADOR",
-            categoria:"LUGARES"
+            categoria:"LUGARES VB"
         },
         palavra003 = {
             nome: "CHILE",
-            categoria:"LUGARES"
+            categoria:"LUGARES GV"
         },
         palavra004 = {
             nome: "INDONESIA",
-            categoria:"LUGARES"
+            categoria:"LUGARES BG"
         },
         palavra005 = {
             nome: "MALDIVAS",
-            categoria:"LUGARES"
+            categoria:"LUGARES DG"
         },
         palavra006 = {
             nome: "INGLATERRA",
-            categoria:"LUGARES"
+            categoria:"LUGARES DE"
         },
         palavra007 = {
             nome: "JERICOACOARA",
@@ -213,15 +213,15 @@ function carregaListaAutomatica(){
         },
         palavra008 = {
             nome: "UZBEQUISTAO",
-            categoria:"LUGARES"
+            categoria:"LUGARES SRH"
         },
         palavra009 = {
             nome: "INDONESIA",
-            categoria:"LUGARES"
+            categoria:"LUGARES TSG"
         },
         palavra010 = {
             nome: "CREGUENHEM",
-            categoria:"LUGARES"
+            categoria:"LUGARES FG"
         },
         palavra011 = {
             nome: "BICICLETA",
