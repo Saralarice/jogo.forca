@@ -220,7 +220,11 @@ function carregaListaAutomatica(){
             categoria:"LUGARES"
         },
         palavra010 = {
-            nome: "CREGUENHEM",
+            nome: "PEQUIM",
+            categoria:"LUGARES"
+        },
+        palavra011 = {
+            nome: "BRASIL",
             categoria:"LUGARES"
         },
         palavra011 = {
@@ -292,11 +296,11 @@ function carregaListaAutomatica(){
             categoria:"OBJETOS"
         },
         palavra028 = {
-            nome: "BOCAL",
+            nome: "ESCADA",
             categoria:"OBJETOS"
         },
         palavra029 = {
-            nome: "CORTINA",
+            nome: "PC",
             categoria:"OBJETOS"
         },
         palavra030 = {
@@ -316,31 +320,31 @@ function carregaListaAutomatica(){
             categoria:"ALIMENTOS"
         },
         palavra034 = {
-            nome: "GOROROBA",
+            nome: "CAMARAO",
             categoria:"ALIMENTOS"
         },
         palavra035 = {
-            nome: "JANTAR",
+            nome: "CARANGUEJO",
             categoria:"ALIMENTOS"
         },
         palavra036 = {
-            nome: "SABOROSO",
+            nome: "SALMAO",
             categoria:"ALIMENTOS"
         },
         palavra037 = {
-            nome: "DESJEJUM",
+            nome: "PIPOCA",
             categoria:"ALIMENTOS"
         },
         palavra038 = {
-            nome: "MASTIGAR",
+            nome: "BEIRUTE",
             categoria:"ALIMENTOS"
         },
         palavra039 = {
-            nome: "ENGOLIR",
+            nome: "CUZCUZ",
             categoria:"ALIMENTOS"
         },
         palavra040 = {
-            nome: "DOCERIA",
+            nome: "LASANHA",
             categoria:"ALIMENTOS"
         },
         palavra040 = {
@@ -376,7 +380,7 @@ function carregaListaAutomatica(){
             categoria:"ANIMAIS"
         },
         palavra048 = {
-            nome: "SAGUI",
+            nome: "CROCODILO",
             categoria:"ANIMAIS"
         },
         palavra049 = {
@@ -400,11 +404,11 @@ function carregaListaAutomatica(){
             categoria:"TV E CINEMA"
         },
         palavra054 = {
-            nome: "TELA QUENTE",
+            nome: "VELOZES E VURIOSOS",
             categoria:"TV E CINEMA"
         },
         palavra055 = {
-            nome: "STRANGER THINGS",
+            nome: "OS VINGADORES",
             categoria:"TV E CINEMA"
         },
         palavra056 = {
